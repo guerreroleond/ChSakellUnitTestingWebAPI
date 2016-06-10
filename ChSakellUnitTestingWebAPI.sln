@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChSakellUnitTestingWebAPI.Domain", "ChSakellUnitTestingWebAPI.Domain\ChSakellUnitTestingWebAPI.Domain.csproj", "{5BBE4BF2-0595-4D6C-9DE5-EA43F8F7EF12}"
 EndProject
@@ -11,9 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChSakellUnitTestingWebAPI.S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChSakellUnitTestingWebAPI.API.Core", "ChSakellUnitTestingWebAPI.API.Core\ChSakellUnitTestingWebAPI.API.Core.csproj", "{F8EFCB3F-2CD6-4664-B459-F47CC5718A00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChSakellUnitTestingWebAPI", "ChSakellUnitTestingWebAPI\ChSakellUnitTestingWebAPI.csproj", "{992070F2-D99E-458B-A484-2DA3B714A130}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChSakellUnitTestingWebAPI.Tests", "ChSakellUnitTestingWebAPI.Tests\ChSakellUnitTestingWebAPI.Tests.csproj", "{26B0D5EE-246B-4548-A467-09C4821C2E33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChSakellUnitTestingWebAPI.API", "ChSakellUnitTestingWebAPI.API\ChSakellUnitTestingWebAPI.API.csproj", "{56B172F6-B078-4D70-9334-AF74BA2EE073}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,14 +37,14 @@ Global
 		{F8EFCB3F-2CD6-4664-B459-F47CC5718A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8EFCB3F-2CD6-4664-B459-F47CC5718A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8EFCB3F-2CD6-4664-B459-F47CC5718A00}.Release|Any CPU.Build.0 = Release|Any CPU
-		{992070F2-D99E-458B-A484-2DA3B714A130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{992070F2-D99E-458B-A484-2DA3B714A130}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{992070F2-D99E-458B-A484-2DA3B714A130}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{992070F2-D99E-458B-A484-2DA3B714A130}.Release|Any CPU.Build.0 = Release|Any CPU
 		{26B0D5EE-246B-4548-A467-09C4821C2E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{26B0D5EE-246B-4548-A467-09C4821C2E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26B0D5EE-246B-4548-A467-09C4821C2E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26B0D5EE-246B-4548-A467-09C4821C2E33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B172F6-B078-4D70-9334-AF74BA2EE073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B172F6-B078-4D70-9334-AF74BA2EE073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B172F6-B078-4D70-9334-AF74BA2EE073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B172F6-B078-4D70-9334-AF74BA2EE073}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
